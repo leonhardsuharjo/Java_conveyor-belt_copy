@@ -6,3 +6,4 @@ Folder structure (list of files) =
     - draw.java
     - readme.md
     - simulation.java
+    - worker.java
