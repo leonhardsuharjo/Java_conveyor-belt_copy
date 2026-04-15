@@ -2,4 +2,7 @@ Personal review
 
 Folder structure (list of files) = 
     - action.java
-    - belt 
+    - belt.java
+    - draw.java
+    - readme.md
+    - simulation.java
